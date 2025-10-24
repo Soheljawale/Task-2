@@ -1,0 +1,20 @@
+From: "Netflix Support" support@netfliix-billing.com
+Subject: Action Required: Payment Method Declined
+
+Dear User,
+
+We were unable to process your latest Netflix payment. Your account will be suspended within 24 hours unless your payment information is updated.
+
+Please confirm your billing details by clicking the secure link below:
+https://www.netflix.com.verify-billing-center.com
+
+After verification, your account will be fully reinstated.
+
+Thank you for being a valued Netflix member.
+
+Sincerely,
+Netflix Billing Department
+
+---
+Note: This is an automated message. Please do not reply to this email.(give this type another phising email
+
