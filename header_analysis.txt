@@ -1,0 +1,18 @@
+Delivered-To: yourmail@gmail.com
+Received: by 2002:a1c:bbb3:0:b0:cb:608:4d79 with SMTP id a19csp3437027wmb;
+        Wed, 20 Oct 2025 17:10:21 -0700 (PDT)
+Return-Path: <support@netfliix-billing.com>
+From: "Netflix Support" <support@netfliix-billing.com>
+To: yourmail@gmail.com
+Subject: Action Required: Payment Method Declined
+Date: Wed, 20 Oct 2025 23:40:00 +0000
+Message-ID: <samplemessageid@netfliix-billing.com>
+Reply-To: support@netfliix-billing.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 1 (Highest)
+X-Mailer: Microsoft Outlook 16.0
+SPF: FAIL (bad sender IP)
+DKIM: NONE
+
